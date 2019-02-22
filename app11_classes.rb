@@ -22,7 +22,7 @@ class Item
   def weight= (weight_value)
     @weight = weight_value
   end
-
+app11_classes.rb
 =end
 
 
